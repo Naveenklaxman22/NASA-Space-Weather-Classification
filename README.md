@@ -29,7 +29,7 @@ This project delves into **NASA Space Weather Data Analysis**, focusing on **Sol
 
 The dataset used is the **"NASA_space_weather_data"** from Kaggle, which is a collection of various space weather event files from NASA's DONKI API. For this specific project, the **`solar_flares.csv`** file was chosen as the primary data source due to its direct relevance to solar flare events and classifications.
 
-* **Link to Kaggle Dataset:** [NASA Space Weather Data](https://www.kaggle.com/datasets/edacelikloglu/nasa-space-weather-data)
+* **Link to Kaggle Dataset:** [NASA Space Weather Data](https://www.kaggle.com/datasets/edacelikeloglu/nasa-space-weather-data)
 * **Primary File Used:** `solar_flares.csv` (Part of the larger dataset archive)
 
 ---
